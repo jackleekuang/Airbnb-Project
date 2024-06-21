@@ -52,16 +52,28 @@
 <!-- ABOUT THE PROJECT -->
 ## Project Overview
 
-This is a collaborative project with [Jeco Cheung](https://www.linkedin.com/in/jecocheung/) & [Weber Lin](https://www.linkedin.com/in/weber-tsungwei-lin/) in the DSO 574 course at the University of Southern California.
-The purpose of this project is to 
+This is a collaborative project with [Jeco Cheung](https://www.linkedin.com/in/jecocheung/) & [Weber Lin](https://www.linkedin.com/in/weber-tsungwei-lin/) in the DSO 574 course at the University of Southern California. This project provides high-level insights on online marketplace for short- and long-term homestays by analyzing Airbnb data before & after COVID-19 pandemic among major Los Angeles areas. 
 
+## Problem Statement
+
+This project aims to help people make wiser choices for vacation and even make better decisions on real estate investment. The target audience are researchers, potential real estate investors, lanlords and short-term visitors who want to obtain an overview of changes in real estate and tourism market. In addition, it's also a good source for online marketplace comapnies like Airbnb to evaluate the impacts of major events on business.
+
+## Highlight
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+* Airbnb Listing Trend & Average Listing Price Trend
+* Trends in Quantity and Pricing by Room-Type
+* Listing Price Across Neighborhoods (such as Hollywood, Santa Monica)
+* Listing Counts Across Regions & Neighborhoods
+* Conclusion & Limitation 
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+## Skill & Analytics Covered / Data Source
+
+* Skills : Data Cleaning, Data Visualization, Data Analysis
+* Tools  : Python (Google Colab); Canva
+* Source : Professor [Milan Miric](https://www.linkedin.com/in/milanmiric/)
+
+
 
 Use the `BLANK_README.md` to get started.
 
