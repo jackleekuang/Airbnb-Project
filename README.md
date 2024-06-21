@@ -19,20 +19,21 @@ ReadMe Source:
 <!-- ABOUT THE PROJECT -->
 ## Project Overview
 
-This is a collaborative project with [Jeco Cheung](https://www.linkedin.com/in/jecocheung/) & [Weber Lin](https://www.linkedin.com/in/weber-tsungwei-lin/) in the DSO 574 course at the University of Southern California. This project provides high-level insights on online marketplace for short- and long-term homestays by analyzing Airbnb data before & after COVID-19 pandemic among major Los Angeles areas. 
+This collaborative project, conducted with [Jeco Cheung](https://www.linkedin.com/in/jecocheung/) & [Weber Lin](https://www.linkedin.com/in/weber-tsungwei-lin/) as part of the DSO 574 course at the University of Southern California, offers high-level insights into the online marketplace for short- and long-term homestays by analyzing Airbnb data before and after the COVID-19 pandemic in major Los Angeles areas.
 
 ## Problem Statement
 
-This project aims to help people make wiser choices for vacation and even make better decisions on real estate investment. The target audience are researchers, potential real estate investors, lanlords and short-term visitors who want to obtain an overview of changes in real estate and tourism market. In addition, it's also a good source for online marketplace comapnies like Airbnb to evaluate the impacts of major events on business.
+The objective of this project is to provide valuable information for making informed decisions regarding vacations and real estate investments. Our target audience includes researchers, potential real estate investors, landlords, and short-term visitors seeking an understanding of the changes in the real estate and tourism markets. Additionally, it serves as a valuable resource for online marketplace companies like Airbnb to assess the impact of major events on their business operations.
 
 ## Highlight
 
-Here's why:
-* Airbnb Listing Trend & Average Listing Price Trend
-* Trends in Quantity and Pricing by Room-Type
-* Listing Price Across Neighborhoods (such as Hollywood, Santa Monica)
-* Listing Counts Across Regions & Neighborhoods
-* Conclusion & Limitation 
+Key aspects of our analysis include:
+
+Airbnb Listing Trends & Average Listing Price Trends: An examination of how listing numbers and average prices have evolved over time.
+Trends in Quantity and Pricing by Room-Type: Insights into how different types of rooms are listed and priced.
+Listing Prices Across Neighborhoods: A detailed look at pricing in various neighborhoods, such as Hollywood and Santa Monica.
+Listing Counts Across Regions & Neighborhoods: An analysis of how listings are distributed across different areas.
+Conclusion & Limitations: Summary of findings and discussion of any limitations in the study.
 
 ## Skill & Analytics Covered / Data Source
 
