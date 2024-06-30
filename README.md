@@ -29,11 +29,11 @@ The objective of this project is to provide valuable information for making info
 
 Key aspects of our analysis include:
 
-Airbnb Listing Trends & Average Listing Price Trends: An examination of how listing numbers and average prices have evolved over time.
-Trends in Quantity and Pricing by Room-Type: Insights into how different types of rooms are listed and priced.
-Listing Prices Across Neighborhoods: A detailed look at pricing in various neighborhoods, such as Hollywood and Santa Monica.
-Listing Counts Across Regions & Neighborhoods: An analysis of how listings are distributed across different areas.
-Conclusion & Limitations: Summary of findings and discussion of any limitations in the study.
+* Airbnb Listing Trends & Average Listing Price Trends: An examination of how listing numbers and average prices have evolved over time.
+* Trends in Quantity and Pricing by Room-Type: Insights into how different types of rooms are listed and priced.
+* Listing Prices Across Neighborhoods: A detailed look at pricing in various neighborhoods, such as Hollywood and Santa Monica.
+* Listing Counts Across Regions & Neighborhoods: An analysis of how listings are distributed across different areas.
+* Conclusion & Limitations: Summary of findings and discussion of any limitations in the study.
 
 ## Skill & Analytics Covered / Data Source
 
